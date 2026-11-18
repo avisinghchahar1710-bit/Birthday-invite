@@ -1,0 +1,42 @@
+body {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #fff8fb;
+}
+
+h1 {
+  color: #9b3f78;
+}
+
+h2 {
+  color: #6b4c7a;
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 12px;
+}
+
+h3 {
+  margin-top: 28px;
+  color: #7d3d67;
+}
+
+li {
+  margin: 10px 0;
+}
+
+a {
+  color: #623b9b;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #b34279;
+}
